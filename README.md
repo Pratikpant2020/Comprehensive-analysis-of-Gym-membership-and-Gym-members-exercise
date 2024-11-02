@@ -4,7 +4,7 @@
 
  ### Objective: 
 
-  1: This project Gym member exercise dataset  provides a detailed overview of gym exercise, how it is important to get physical attributes, and fitness metrics, and it improves gym members overall health by calories burn..
+  1: In this project Gym member exercise dataset  provides a detailed overview of gym exercise, how it is important to get physical attributes, and fitness metrics, and it improves gym members overall health by calories burn..
   
   2: Tools and Technologies: Pandas, Matplotlib, Seaborn, SQLite, Tableau, Jupyter Notebook.
 
@@ -26,9 +26,9 @@
 
   ### Loading Data
   
-  2: Gym Members Exercise Dataset 
+  2: `Gym Members Exercise Dataset` 
   
-  3: Gym Membership Dataset
+  3: `Gym Membership Dataset`
   
   ### Data Cleaning and Merging
   
@@ -66,7 +66,7 @@
 
    Write a comprehensive README.md file covering:
    
-   1: Project overview and objectives.
+   1. Project overview and objectives.
       
    2: Data sources and cleaning steps.
    
