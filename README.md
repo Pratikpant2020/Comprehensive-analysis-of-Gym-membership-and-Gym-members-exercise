@@ -2,85 +2,85 @@
 
 ## I. Introduction
 
- ### Objective: 
+### Objective: 
 
-  1: In this project Gym member exercise dataset  provides a detailed overview of gym exercise, how it is important to get physical attributes, and fitness metrics, and it improves gym members overall health by calories burn..
+  1. In this project Gym member exercise dataset  provides a detailed overview of gym exercise, how it is important to get physical attributes, and fitness metrics, and it improves gym members overall health by calories burn..
   
-  2: Tools and Technologies: Pandas, Matplotlib, Seaborn, SQLite, Tableau, Jupyter Notebook.
+  2. Tools and Technologies: Pandas, Matplotlib, Seaborn, SQLite, Tableau, Jupyter Notebook.
 
 ### Goals:
 
-  1: Adhere to standard interaction conventions.
+  1. Adhere to standard interaction conventions.
   
-  2: Ensure consistency and readability across the project.
+  2. Ensure consistency and readability across the project.
   
-  3: Total no of male n female Gym members with the same age range.
+  3. Total no of male n female Gym members with the same age range.
   
-  4: Provide comprehensive data analysis and visualization.
+  4. Provide comprehensive data analysis and visualization.
   
-  5: Document the project thoroughly for clarity and reproducibility.
+  5. Document the project thoroughly for clarity and reproducibility.
   
-  6: Comprehensive analysis of Gym members' calories burn and their dream weight  gain
+  6. Comprehensive analysis of Gym members' calories burn and their dream weight  gain
 
 ## II. Data Acquisition and Cleaning
 
-  ### Loading Data
+  ### Data sources
   
-  2: `Gym Members Exercise Dataset` 
+   1. `Gym Members Exercise Dataset` (https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset/data)
   
-  3: `Gym Membership Dataset`
+   2. `Gym Membership Dataset`(https://www.kaggle.com/datasets/ka66ledata/gym-membership-dataset)
+
+### Instructions
+
+  1. Fork the repository repo link
+
+  2. Clone the repository to your Github account
   
-  ### Data Cleaning and Merging
+  3. Access the repository from your command line 
+
+### Virtual Environment set up instructions
+
+  1. After you have cloned the repo to your machine, navigate to the project folder in GitBash/Terminal.
   
-  1: Clean datasets using Pandas (handling missing values, correcting data types).
+  2. Install a virtual environment. The command in Gitbash is python -m venv venv
   
-  2: Merge datasets on common attributes and calculate new values such as average calories burn.
+  3. Activate the virtual environment. The command in Gitbash is source venv/scripts/activate for windows
+  
+  4. Install the requirements.txt file to install necessary packages by running pip install requirements.txt
+
+### Data Cleaning and Merging
+  
+   1. Clean datasets using Pandas (handling missing values, correcting data types).
+  
+   2. Merge these two datasets on common attributes and calculate new values such as average calories burn.
 
 ## IV. Data Analysis and Visualization
 
   ### Visualizations
   
-  1: Create at least three visualizations using Matplotlib or Seaborn, such as:Line plots for calories burned.
+   1. Create at least three visualizations using Matplotlib or Seaborn, such as:Line plots for calories burned.
   
-  2: Develop a Tableau dashboard to present key insights interactively.
+   2. Develop a Tableau dashboard to present key insights interactively.
+   
+### Data Dictionary
   
-## V. Best Practices Implementation
-
-   ### Virtual Environment
-  
-  1: Set up a virtual environment and provide setup instructions in the README.
-  
-  ### Data Dictionary
-  
-  1: Develop a custom data dictionary to explain all variables and data points, included in the documentation.
+   1. Develop a custom data dictionary to explain all variables and data points, included in the documentation.
 
 ## VI. Data Interpretation and Documentation
 
  ### Code Annotation
   
-   1: Use markdown cells in Jupyter Notebook to annotate the code, explaining each step of the analysis.
+   1. Use markdown cells in Jupyter Notebook to annotate the code, explaining each step of the analysis.
    
-   2: Ensure clear and concise comments within the code.
+   2. Ensure clear and concise comments within the code.
    
-  ### Project Documentation
-
-   Write a comprehensive README.md file covering:
-   
-   1. Project overview and objectives.
-      
-   2: Data sources and cleaning steps.
-   
-   3: Analysis and visualization methods.
-   
-   4: Instructions for setting up the environment and running the project.
-   
-   5: Summary of findings and interpretations, highlighting any observed trends or correlations.
-
+   3.  Summary of findings and interpretations, highlighting any observed trends or correlations.
+  
 ## VII. Review and Polishing
   
   ### Internal Review
     
-   1: Perform a thorough review to ensure the project meets all requirements.
+   1. Perform a thorough review to ensure the project meets all requirements.
    
-   2:Verify the accuracy and readability of visual components.
+   2. Verify the accuracy and readability of visual components.
 
