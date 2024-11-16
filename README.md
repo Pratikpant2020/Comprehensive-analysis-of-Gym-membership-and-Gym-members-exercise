@@ -6,7 +6,7 @@
 
   1. In this project Gym member exercise dataset  provides a detailed overview of gym exercise, how it is important to get physical attributes, and fitness metrics, and it improves gym members overall health by calories burn..
   
-  2. Tools and Technologies: Pandas, Matplotlib, Seaborn, SQLite, Tableau, Jupyter Notebook.
+  2. Tools and Technologies: Pandas, Numpy, Matplotlib, Seaborn, SQLite, Tableau, Jupyter Notebook.
 
 ### Goals:
 
@@ -46,7 +46,7 @@
   
   3. Activate the virtual environment. The command in Gitbash is source venv/scripts/activate for windows
   
-  4. Install the requirements.txt file to install necessary packages by running pip install requirements.txt
+  4. Install the requirements.txt file to install necessary packages by running pip install requirements.txt or pip list.
 
 ### Data Cleaning and Merging
   
