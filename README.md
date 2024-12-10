@@ -52,13 +52,13 @@
   
    1. Clean datasets using Pandas (handling missing values, correcting data types).
   
-   2. Merge these two datasets on common attributes and calculate new values such as average calories burn.
+   2. Merge these two datasets on common attributes and calculate new values such as average days per week .
 
 ## IV. Data Analysis and Visualization
 
   ### Visualizations
   
-   1. Create at least three visualizations using Matplotlib or Seaborn, such as:Line plots for calories burned.
+   1. Create at least three visualizations using Matplotlib or Seaborn, such as:barplots for calories burned.
   
    2. Develop a Tableau dashboard to present key insights interactively.
    
