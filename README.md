@@ -14,7 +14,7 @@
   
   2. Ensure consistency and readability across the project.
   
-  3. Total no of male n female Gym members with the same age range.
+  3. Total no of male n female Gym members in both dataset .
   
   4. Provide comprehensive data analysis and visualization.
   
@@ -32,11 +32,12 @@
 
 ### Instructions
 
-  1. Fork the repository repo link
+  1. Clone the repository in V S code 
 
-  2. Clone the repository to your Github account
+  https://github.com/Pratikpant2020/Comprehensive-analysis-of-Gym-membership-and-Gym-members-exercise.git
+
   
-  3. Access the repository from your command line 
+  2. Access the repository from your command line 
 
 ### Virtual Environment set up instructions
 
@@ -46,7 +47,7 @@
   
   3. Activate the virtual environment. The command in Gitbash is source venv/scripts/activate for windows
   
-  4. Install the requirements.txt file to install necessary packages by running pip install requirements.txt or pip list.
+  4. Install the requirements.txt file to install necessary packages by running pip install requirements.txt or pip list.(python 3.12.8 used to create the project)
 
 ### Data Cleaning and Merging
   
