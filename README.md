@@ -48,7 +48,7 @@
   3. Activate the virtual environment. The command in Gitbash is source venv/scripts/activate for windows
   
   4. Install the requirements.txt file to install necessary packages by running pip install requirements.txt or pip list or pip install -r requirements.txt.(python 3.12.8 used to create the project)
-
+  
 ### Data Cleaning and Merging
   
    1. Clean datasets using Pandas (handling missing values, correcting data types).
