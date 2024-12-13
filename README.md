@@ -84,3 +84,16 @@
    1. Perform a thorough review to ensure the project meets all requirements.
    
    2. Verify the accuracy and readability of visual components.
+
+   ## Project overview
+  
+At a high level, all data is stored in the `data/` directory.         
+| `File` | Description |
+| ---- | ----------- |
+| `README.md` | General information about the project |
+| `Clean Data` | Cleaned data files |
+| `Raw data` | Raw data files |
+| `data dictionary/README.md` | Data dictionary for all data sets used in the project. |
+| `clean_gym_data.ipynb` | Jupyter notebook for raw gym and raw data cleaning file. |
+| `gym.ipynb` | The gym data file. |
+| `merge_gym_data.ipynb` | This file leaning including removing unnecessary columns, and removing unnecessary rows, etc. |
