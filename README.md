@@ -96,4 +96,4 @@ At a high level, all data is stored in the `data/` directory.
 | `data dictionary/README.md` | Data dictionary for all data sets used in the project. |
 | `clean_gym_data.ipynb` | Jupyter notebook for raw gym and raw data cleaning file. |
 | `gym.ipynb` | The gym data file. |
-| `merge_gym_data.ipynb` | This file leaning including removing unnecessary columns, and removing unnecessary rows, etc. |
+| `merge_gym_data.ipynb` | This file leaning including removing unnecessary columns, and removing unnecessary rows, etc. |  
